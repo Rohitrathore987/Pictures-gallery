@@ -14,14 +14,14 @@
     margin: 40px 20px 0px 20px;
 }
 .heading{
-    width:50%s;
+    width:50%;
     padding-bottom: 50px;
     
 }
 .heading h3{
     font-size: 3rem;
     font-weight: 700;
-    border-bottom: 3px solid purple;
+    border-bottom: 3px solid plum;
     letter-spacing: 2px;
 
 }
